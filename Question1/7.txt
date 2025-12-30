@@ -1,0 +1,1 @@
+grep searches for the word admin in log.txt and prints only lines that match. In this case, it wont print anything because log.txt is empty and contains no match for "admin."

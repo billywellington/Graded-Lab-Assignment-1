@@ -1,0 +1,1 @@
+after deleting the soft link, the sample_data.txt remains unaffected

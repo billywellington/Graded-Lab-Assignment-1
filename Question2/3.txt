@@ -1,0 +1,1 @@
+echo is used to print text on the console. and we have combined it with redirection so that the text is saved on the desired fie.

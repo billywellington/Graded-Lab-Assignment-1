@@ -1,0 +1,3 @@
+whoami is used to check the which user is currently logged in
+
+id is used to check user ID as well the groups which the user belongs and their relevent IDs. 

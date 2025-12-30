@@ -1,0 +1,11 @@
+du -h ~ | head
+
+
+Explanation:
+Shows disk usage for folders under my home directory in human-readable format. The head prevents too much output.
+
+df -h
+
+
+Explanation:
+df -h shows total disk space, used space, free space, and mount points in human readable format (GB/MB). It tells me overall system storage status.

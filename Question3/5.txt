@@ -1,0 +1,5 @@
+sample_data.txt and sample_hard.txt share the same inode.
+
+Explanation:
+Hard links share the same inode, meaning they point to the exact same data.
+The symbolic link has a different inode, because it only stores a path to the original file (a shortcut).

@@ -1,0 +1,3 @@
+pwd is used to print the present working directory
+
+ls -l is used to show all files and directory in the current directory in long format

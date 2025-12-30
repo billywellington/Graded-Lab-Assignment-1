@@ -1,0 +1,1 @@
+This creates the file sample_data.txt in my home directory and writes sample text into it. The file now contains some content I can use for link operations.

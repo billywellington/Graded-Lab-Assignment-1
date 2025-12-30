@@ -1,0 +1,1 @@
+This prints the absolute path of plan_copy.txt. It confirms the exact location of the file on the system.

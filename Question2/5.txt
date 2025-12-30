@@ -1,0 +1,1 @@
+the cp command creates a duplicate of a file. In my case, a duplicate of plan.txt named plan_copy.txt is created in the same directory. Now there are two files with the same content.

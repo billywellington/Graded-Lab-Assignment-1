@@ -1,0 +1,1 @@
+This lists all files and directories inside project_documents, including subdirectories. I can clearly see the archive folder and where each file is located.

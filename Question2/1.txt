@@ -1,0 +1,1 @@
+mkdir is used to create a directory /folder. After running this command, the new folder now appears in my files. 

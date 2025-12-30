@@ -1,0 +1,1 @@
+uptime command displays how long the system has been running since its last boot. It also shows the current time, number of users, and load averages over the past 1, 5, and 15 minutes.

@@ -1,0 +1,2 @@
+du shows space used.
+-s summarizes the total and -h shows it in human readable format like KB/MB/GB. This tells me how much disk space my home directory uses.

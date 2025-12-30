@@ -1,0 +1,1 @@
+This displays the disk usage of the filesystem where my home directory resides. It shows total space, used space, available space, and mount point in human-readable units.

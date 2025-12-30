@@ -1,0 +1,1 @@
+This displays detailed information such as permissions, owner, group, file size, and last modification time. I confirm I own the file and its attributes.

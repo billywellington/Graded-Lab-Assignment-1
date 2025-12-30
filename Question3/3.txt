@@ -1,0 +1,1 @@
+This creates a symbolic link (shortcut) named sample_soft.txt that points to sample_data.txt. If the original file moves or is deleted, this link will break.

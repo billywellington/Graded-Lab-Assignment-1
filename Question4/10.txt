@@ -1,0 +1,1 @@
+ncdu scans the home directory and displays disk usage interactively. It allows me to identify which directories and files are consuming the most space, helping with storage management. Pressing q exits the tool.

@@ -1,0 +1,1 @@
+I redirected the output of uname -a (system information) into a file named system_report.txt. Using cat confirms that the information was successfully written to the file.

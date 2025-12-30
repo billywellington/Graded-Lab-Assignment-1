@@ -1,0 +1,1 @@
+The uptime command shows how long the system has been running since the last boot, the number of users currently logged in, and the system load average over the past 1, 5, and 15 minutes. As for my system, it has been up for 2 hours and 25 minutes, 3 users are logged in, and the load averages are 0.21, 0.59, and 0.68, indicating the system is lightly loaded.

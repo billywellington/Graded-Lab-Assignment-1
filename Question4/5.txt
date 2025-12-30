@@ -1,0 +1,1 @@
+I started a process with a niceness of 10, giving it lower CPU priority. Using ps -o ni shows the updated priority of the process.

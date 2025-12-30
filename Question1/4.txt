@@ -1,0 +1,3 @@
+wc: outputs the number of lines, words, and characters in a file
+
+we use the flag -m to count the numbers of characters in a file

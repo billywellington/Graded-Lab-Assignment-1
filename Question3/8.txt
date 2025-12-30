@@ -1,0 +1,1 @@
+This shows the disk usage of each file and directory in my home directory in human-readable format. It helps me see which files use the most space.

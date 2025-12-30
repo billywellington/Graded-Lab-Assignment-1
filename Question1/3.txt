@@ -1,0 +1,1 @@
+echo is used to simply used to print to the standard output. With the redirection implemented in the command, we can save the line /text on file, if it already exists. If it doesn't exist. A new file will be created.

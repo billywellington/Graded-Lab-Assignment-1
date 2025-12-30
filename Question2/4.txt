@@ -1,0 +1,1 @@
+This shows the file in long listing format, including permissions, owner, group, size, and date. My username appears in the owner field, showing I own the file.

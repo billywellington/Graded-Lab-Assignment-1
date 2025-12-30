@@ -1,0 +1,1 @@
+This lists all processes that belong to my user account. I can see the PID, terminal, CPU time, and command name for each process I am running.

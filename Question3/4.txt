@@ -1,0 +1,1 @@
+The -i option shows inode numbers. I can now compare which files share the same inode and which ones differ.

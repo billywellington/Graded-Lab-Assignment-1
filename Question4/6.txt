@@ -1,0 +1,1 @@
+This shows memory usage in a human-readable format (GB/MB). It includes total, used, free, and available memory, as well as swap usage.

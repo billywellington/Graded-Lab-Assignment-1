@@ -1,0 +1,1 @@
+I started a command (sleep 60) in the background using &. Using jobs confirms that it is running without blocking the terminal.

@@ -1,0 +1,1 @@
+This moves plan_copy.txt into the archive folder. Now the original stays in the main project folder, while the copy is in archive.

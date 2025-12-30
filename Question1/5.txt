@@ -1,0 +1,6 @@
+mkdir -m 
+the -m flag is used to to set directory mode, just like we do in  in chmod. 
+
+For example : mkdir -m 755 files, creates a directory called "files" with read, write, and execute permissions for owner and read and execute permissions for group and others. 
+
+
